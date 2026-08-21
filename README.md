@@ -48,6 +48,12 @@
   </a>
 </div>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riquelme-Santos/Riquelme-Santos/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Riquelme-Santos/Riquelme-Santos/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Riquelme-Santos/Riquelme-Santos/pacman-output/pacman-contribution-graph.svg">
+</picture>
 ###
 
 
@@ -103,8 +109,4 @@ Durante esse período, pude **aprimorar meu inglês**, desenvolver novas habilid
 
 Essa experiência internacional fortaleceu competências essenciais como **adaptação, responsabilidade, autonomia, trabalho em equipe e resolução de problemas**, além de ampliar minha visão sobre o mercado global de tecnologia.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riquelme-Santos/Riquelme-Santos/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Riquelme-Santos/Riquelme-Santos/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Riquelme-Santos/Riquelme-Santos/pacman-output/pacman-contribution-graph.svg">
-</picture>
+
