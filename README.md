@@ -1,4 +1,4 @@
-<h1 align="center">👋Olá meu nome é Riquelme!</h1>
+<h1 align="center">👋Hi, my name is Riquelme!</h1>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
