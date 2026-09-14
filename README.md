@@ -36,7 +36,7 @@
   </a>
 
   <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+    <img src="[https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge](https://github.com/biellindolindo9/biellindolindo9)" height="25" alt="discord logo" />
   </a>
 
   <a href="https://instagram.com/" target="_blank">
